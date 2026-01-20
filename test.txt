@@ -1,0 +1,1 @@
+Dette er ein test fil for å teste pull request i 3.1
